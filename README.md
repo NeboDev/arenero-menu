@@ -7,3 +7,9 @@ Jesus Aguilar Quintero
 
 ## Matrícula
 202213234
+
+## Materia
+Desarrollo de Aplicaciones Web  
+
+## Periodo
+Otoño 2025  
